@@ -17,7 +17,7 @@ app.get('/is-thirteen', function (req, res) {
     result[q] = {query: q, isThirteen: is(q).thirteen()};
   });
 
-  res.send(JSON.stringify(result));
+  res.json(result);
 });
 
 app.listen(8080, function () {

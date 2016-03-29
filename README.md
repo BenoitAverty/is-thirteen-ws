@@ -1,6 +1,10 @@
 # is-thirteen-ws
 SaaS for [is-thirteen](https://github.com/jezen/is-thirteen) npm module.
 
+## Hosted version
+
+http://is-thirteen-ws.cleverapps.io
+
 ## Endpoints
 
 ```
