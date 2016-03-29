@@ -1,0 +1,28 @@
+{
+  "name": "is-thirteen-ws",
+  "version": "1.0.0",
+  "description": "Open webservice for the is-thirteen npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaidjin/is-thirteen-ws.git"
+  },
+  "keywords": [
+    "is-thirteen",
+    "saas"
+  ],
+  "author": "Benoit Averty <benoit.averty@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kaidjin/is-thirteen-ws/issues"
+  },
+  "homepage": "https://github.com/Kaidjin/is-thirteen-ws#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "is-thirteen": "^2.0.0"
+  }
+}
