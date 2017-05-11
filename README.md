@@ -1,4 +1,6 @@
 # is-thirteen-ws
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/BenoitAverty/is-thirteen-ws.svg)](https://greenkeeper.io/)
 SaaS for [is-thirteen](https://github.com/jezen/is-thirteen) npm module.
 
 Currently, this only supports the is(x).thirteen() method. Feel free to submit pull requests to improve coverage.
